@@ -27,4 +27,4 @@ Bu proje, React Native ile geliştirilen bir Instagram profil ekranı klonudur. 
 
 Bu proje, Instagram benzeri bir profil görünümünü temel alan sade, mobil uyumlu ve bileşen odaklı bir arayüz sunar. Geliştiriciler için React Native ile profil ekranı oluşturma mantığını öğrenmek adına faydalı bir örnektir.
 
-![] 
+![](https://github.com/Rasime-Dumlupunar/instagram-clone-RN/blob/main/instagram.gif)
